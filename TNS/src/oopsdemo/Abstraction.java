@@ -1,4 +1,4 @@
-package oopsdemo;
+package org.tns.acc.c2tc.core_java;
 
 public class Abstraction {
 
@@ -56,4 +56,5 @@ class SureshDemo extends RameshDemo  //2026
     }
     
 }
+
 
